@@ -107,8 +107,8 @@ const Projects = () => {
                 </a>                
               </div>
             </div>
-            
           </div>
+          <a href="https://github.com/OluwatimilehinK?tab=repositories" target='blank' className="mx-auto text-center text-blue-400 hover:text-blue-300 transition-colors my-4">More Projects in my Repo →</a>            
         </div>
         </RevealOnScroll>
     </section>
